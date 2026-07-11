@@ -53,3 +53,4 @@ grep: /var/log/auth.log: binary file matches
 ======================================
         END OF REPORT                  
 ======================================
+*
